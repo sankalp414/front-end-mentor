@@ -6,8 +6,10 @@ function App() {
   
 
   return (
-    <div className='bg-yellow-500'>
+    <div className='w-full h-screen bg-yellow-500'>
+      <h1>hllo</h1>
       <Card/>
+
     </div>
   )
 }
